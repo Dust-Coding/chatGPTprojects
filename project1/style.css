@@ -1,0 +1,59 @@
+body {
+    background-color: rgba(36, 108, 96, .75);
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1,
+h2,
+h3,
+p {
+    font-family: cursive;
+    text-align: center;
+}
+
+button {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
+
+section {
+    border: 2px red solid;
+}
+
+section.contact {
+    display: block;
+    width: 400px;
+    height: auto;
+    margin-left: 450px;
+}
+
+section.About-me {
+    display: inline-block;
+    width: 600px;
+    height: auto;
+    padding: 10px 10px;
+}
+
+div.ed {
+    display: inline-block;
+    height: auto;
+    width: auto;
+    position: absolute;
+    border: 1px yellow solid;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 150px;
+    margin-left: 3px;
+    padding: 10px;
+}
+
+section.skills {
+    display: inline-block;
+    height: auto;
+    width: auto;
+    position: absolute;
+    text-align: center;
+    margin-left: 400px;
+}

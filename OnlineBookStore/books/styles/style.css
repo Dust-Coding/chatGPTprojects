@@ -1,0 +1,16 @@
+img {
+    height: 364px;
+    width: 246px;
+    display: inline-block;
+    position: relative;
+}
+
+div.whole {
+    display: inline-block;
+}
+
+div.Details {
+    border: 2px red solid;
+    position: relative;
+    display: inline-block;
+}
